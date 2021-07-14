@@ -1,0 +1,127 @@
+{
+    "theCatGirl:GashPower": {
+        "NAME": "Порез",
+        "DESCRIPTIONS": [
+            "Увеличевает получаемый урон от всех #yКогтей на #b"
+        ]
+    },
+    "theCatGirl:StrikenPower": {
+        "NAME": "Пробивание",
+        "DESCRIPTIONS": [
+            "Увеличевает получаемый урон от всех #yУдаров на #b"
+        ]
+    },
+    "theCatGirl:EvadePower": {
+        "NAME": "Уворот",
+        "DESCRIPTIONS": [
+            "Увеличивает получаемую #yЗащиту от следующей карты на ",
+            ". Потеряется при использовании.",
+            " NL Половина потеряется в конце вашего хода."
+        ]
+    },
+    "theCatGirl:NextTurnEvadePower": {
+        "NAME": "Уворот на след. ход",
+        "DESCRIPTIONS": [
+            "Даёт #b",
+            " #yУворота в следющем ходу."
+        ]
+    },
+    "theCatGirl:EvadeDontDecayPower": {
+        "NAME": "Сохранение Уворота",
+        "DESCRIPTIONS": [
+            "#yУворот не потеряется в конце этого хода."
+        ]
+    },
+    "theCatGirl:AdventurersInsightPower": {
+        "NAME": "Интуиция авантюриста",
+        "DESCRIPTIONS": [
+            "Даёт #b%s #yУворота, когда вы уворачиваетесь."
+        ]
+    },
+    "theCatGirl:PoisedPower": {
+        "NAME": "Равновесие",
+        "DESCRIPTIONS": [
+            "В начале каждого вашего хода даёт #b%s #yУворота." //не подсвечен Evade
+        ]
+    },
+    "theCatGirl:CounterattackPower": {
+        "NAME": "Контратака",
+        "DESCRIPTIONS": [
+            "Наносит #b",
+            " урона ВСЕМ врагам, когда вы получаете #yУворот."
+        ]
+    },
+    "theCatGirl:AngryFormPower": {
+        "NAME": "Облик Гнева",
+        "DESCRIPTIONS": [
+            "Каждые #b2 #yУворота теперь увеличивают урон #yАтак на #b1, вместо увеличения #yЗащиты." //цифорка неподсвечена
+        ]
+    },
+    "theCatGirl:BeastificationPower": {
+        "NAME": "Озверение",
+        "DESCRIPTIONS": [
+            "Отнимает #b%s Энергии в следующем ходу."
+        ]
+    },
+    "theCatGirl:EnragePower": {
+        "NAME": "Бешенство",
+        "DESCRIPTIONS": [
+            "В конце каждого вашего хода наносит #b%s урона случайному врагу за каждую разыгранную #yАтаку." //атака с маленькой и без подсветки
+        ]
+    },
+    "theCatGirl:InsanePower": {
+        "NAME": "Умалишение",
+        "DESCRIPTIONS": [
+            "#yСжигает каждую разыгранную #yАтаку." 
+        ]
+    },
+    "theCatGirl:SevenLivesPower": {
+        "NAME": "Семь жизней",
+        "DESCRIPTIONS": [
+            "Вместо того, чтобы получить урон, вы получаете столько же #yУворота. #b%s раз",
+            "Вместо того, чтобы получить урон, вы получаете столько же #yУворота. #b%s раза." //переменные не подсвечены
+        ]
+    },
+    "theCatGirl:GoddessOfMisfortunePower": {
+        "NAME": "Богиня неудачи",
+        "DESCRIPTIONS": [
+            "В начале каждого вашего хода добавляет #b%s #yЗапинку(и) в руку." //stumbles не подсвечено
+        ]
+    },
+    "theCatGirl:NeverGivingUpPower": {
+        "NAME": "Никогда не сдаваться",
+        "DESCRIPTIONS": [
+            "Наносит #b%s урона случайному врагу, когда сбрасывается карта."
+        ]
+    },
+    "theCatGirl:PilingErrorsPower": {
+        "NAME": "Накопление ошибок",
+        "DESCRIPTIONS": [
+            "#yЗапинки теперь #yОставляются.",
+            "#yЗапинки теперь #yОставляются и играются за #b1 [E] ." //stumbles не подсвечено, единичка тоже
+        ]
+    },
+    "theCatGirl:ShockedWitnessPower": {
+        "NAME": "Потрясённый очевидец",
+        "DESCRIPTIONS": [
+            "Накладывает #b",
+            " #yУязвимости на ВСЕХ врагов, когда вы #yСжигаете первую карту в ходу." //уязвимость не подсвечена
+        ]
+    },
+    "theCatGirl:CommonPower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": [
+            "You applied ",
+            " keyword.",
+            " keywords."
+        ]
+    },
+    "theCatGirl:RarePower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": [
+            "At the start of your turn, TOUCH ",
+            " enemy.",
+            " enemies."
+        ]
+    }
+}
