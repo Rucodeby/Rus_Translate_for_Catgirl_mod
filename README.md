@@ -1,0 +1,1 @@
+# Rus_Translate_for_Catgirl_mod
