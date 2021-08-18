@@ -1,1 +1,2 @@
-# Rus_Translate_for_Catgirl_mod
+# Оригинальный мод
+https://steamcommunity.com/sharedfiles/filedetails/?id=1641789169&searchtext=Catgirl 
